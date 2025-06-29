@@ -1,0 +1,207 @@
+< !DOCTYPE html >
+    <
+    html lang = "th" >
+
+    <
+    head >
+    <
+    meta charset = "UTF-8" / >
+    <
+    meta name = "viewport"
+content = "width=device-width, initial-scale=1.0" / >
+    <
+    title > TSC Profix โดยช่ างสมชาย < /title> <
+    body {
+        margin: 0;
+        font - family: 'Segoe UI',
+        sans - serif;
+        background - color: #fff;
+        color: #333;
+
+        }
+
+        
+
+        header {
+
+            background-image: url('ภาพindex7.png');
+
+            background-size: cover;
+
+            background-position: center;
+
+            text-align: center;
+
+            padding: 70px 20px;
+
+            color: # fff;
+    }
+
+.header - title {
+    font - size: 2.8e m;
+    font - weight: bold;
+    margin - bottom: 10 px;
+    color: #e74c3c;
+}
+
+.header - sub {
+    font - size: 1.5e m;
+    color: #2c3e50;
+
+        }
+
+        
+
+        .header-quote {
+
+            font-size: 1em;
+
+            margin-top: 10px;
+
+            color: # 444;
+}
+
+.button - group {
+    margin - top: 20 px;
+}
+
+.btn {
+    background - color: #e67e22;
+    color: white;
+    padding: 12 px 25 px;
+    margin: 8 px;
+    border - radius: 30 px;
+    font - weight: bold;
+    text - decoration: none;
+    display: inline - block;
+    transition: background 0.3 s ease;
+}
+
+.btn: hover {
+    background - color: #cf711f;
+}
+
+section {
+    max - width: 900 px;
+    margin: auto;
+    padding: 40 px 20 px;
+}
+
+h2 {
+    color: #d35400;
+    border - bottom: 1 px solid# eee;
+    padding - bottom: 8 px;
+}
+
+ul {
+    padding - left: 20 px;
+    line - height: 1.8e m;
+}
+
+.contact - info {
+    font - size: 1.1e m;
+    line - height: 1.6e m;
+}
+
+footer {
+    background - color: #071969;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 20px;
+
+            font-size: 0.9em;
+
+        }
+
+        
+
+        a {
+
+            color: # 2 c3e50;
+}
+
+a: hover {
+        color: #e67e22;
+    } <
+    /style> <
+    /head>
+
+<
+body >
+
+    <
+    header >
+    <
+    div class = "header-title" > TSC Profix < /div> <
+    div class = "header-sub" > โดยช่ างสมชาย < /div> <
+    div class = "header-quote" > หั วใจของงานช่ าง คือประสบการณ์ และความซื่ อสั ตย์ < /div> <
+    div class = "button-group" >
+    <
+    a href = "tel:0895425999"
+class = "btn" > 📞โทรหาเรา < /a> <
+    a href = "https://line.me/R/ti/p/@tsc.99"
+class = "btn"
+target = "_blank" > 💬แชทผ่ าน LINE < /a> <
+    /div> <
+    /header>
+
+<
+section >
+    <
+    h2 > 🔧บริการของเรา < /h2> <
+    ul >
+    <
+    li > แก้ กลิ่ นย้ อนจากชั กโครก < /li> <
+    li > ติดตั้ ง– เปลี่ ยนอุปกรณ์ กั นกลิ่ น < /li> <
+    li > ตรวจเช็ คระบบท่ อน้ ำทิ้ ง– ท่ อน้ ำดี < /li> <
+    li > แก้ ไขท่ อตั นเบื้ องต้ น < /li> <
+    li > รั บประกั นงานซ่ อม พร้ อมให้ คำปรึกษาฟรี < /li> <
+    /ul> <
+    /section>
+
+<
+section >
+    <
+    h2 > 📸ตั วอย่ างผลงาน < /h2> <
+    p > ทำงานมากกว่ า 10 ปี < br > แก้ ไขตรงจุด < br > ใช้ อะไหล่ แท้ ราคายุติธรรม < /p>
+
+<
+/section>
+
+<
+section >
+    <
+    h2 > 🙋‍♂️เกี่ ยวกั บช่ างสมชาย < /h2> <
+    p > ช่ างผู้ มีประสบการณ์ ตรงกว่ า 10 ปี < br > ทำงานด้ วยความซื่ อสั ตย์ และใส่ ใจทุกรายละเอียด < /p> <
+    /section>
+
+<
+section >
+    <
+    h2 > 📞ติดต่ อเรา < /h2> <
+    div class = "contact-info" >
+    โทร: < a href = "tel:0895425999" > 089 - 542 - 5999 < /a><br> Line: <a href="https:/ / line.me / R / ti / p / @tsc .99 " target="
+_blank ">@tsc.99</a><br> YouTube: <a href="
+https: //www.youtube.com/channel/UC5e4080Q25oVrxayXa8nGAw" target="_blank">คลิก</a><br> TikTok:
+    <
+    a href = "https://www.tiktok.com/@line.tsc.99"
+target = "_blank" > คลิก < /a><br> Facebook: <a href="https:/ / www.facebook.com / share / 1 DoeUf5fkq / " target="
+_blank ">คลิกเพื่อดูเพจ</a><br> พื้นที่ให้บริการ: กรุงเทพฯ, นนทบุรี, ปทุมธานี, สมุทรปราการ, สมุทรสาคร <
+    /div> <
+    /section>
+
+<
+footer >
+    &
+    copy;
+2014 - 2025 TSC Profix โดย: ช่ างสมชาย | All rights reserved. <
+    /footer>
+
+<
+/body>
+
+<
+/html>
